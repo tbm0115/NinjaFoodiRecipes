@@ -23,7 +23,7 @@ Notes on recipe json:
  - **hasTip**: (binary) Boolean of tooltip availability
  - **tip**: Tooltip text
  - **specialNote**: ???
- - **isHealthfullyBalanced: (binary) Boolean
+ - **isHealthfullyBalanced**: (binary) Boolean
  - **isLowCalorie**: (binary) Boolean
  - **isGlutenFree**: (binary) Boolean
  - **isChefInspired**: (binary) Boolean
@@ -33,3 +33,27 @@ Notes on recipe json:
  - **isLunchBox**: (binary) Boolean
  - **averageRating**: ???
  - **isDetoxCleanse**: (binary) Boolean
+ - **isHeartHealth**: (binary) Boolean
+ - **isLongevityBeauty**: (binary) Boolean
+ - **isMoodImmunity**: (binary) Boolean
+ - **isWeightLoss**: (binary) Boolean
+ - **publishStartDate**: ???
+ - **publishEndDate**: ???
+ - **seoExtensionId**: ???
+ - **searchKeywords**: ???
+ - **variantOf**: ???
+ - **recipeImage**:
+   - **altText**: 
+     - **large**: Alternative Image Text for Large rendering
+     - **small**: Alternative Image Text for Small rendering
+   - **large**: Large Image relative URL
+   - **small**: Small Image relative URL
+ - **titleForUrl**: Title used in the navigation URL
+ - **recipeUrl**: Relative URL to the Recipe page
+ - **tagsCollection**: ???
+ - **tagIdsCollection**: ???
+ - **mediaCollection**: ???
+ - **productsCollection**: ???
+ - **stepsCollection**: ???
+ - **variantsCollection**: ???
+ - **relatedRecipes**: ???
