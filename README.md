@@ -2,6 +2,7 @@
 Reference for accessing Ninja Kitchen Recipes via their API
 
 **Recipe URL**: [https://www.ninjakitchen.com/api/recipe/](https://www.ninjakitchen.com/api/recipe/?q=&sort=Newest&tags=&page=1)
+
 Parameters:
  - **q**: Search term(s), see `response.filters.q`
  - **sort**: Sorting method ("Newest", "A-Z", "Z-A"), see `response.filters.sort` and `response.filters.sortables`
